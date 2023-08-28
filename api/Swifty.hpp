@@ -181,7 +181,7 @@ namespace c_auth {
 		}
 	};
 
-	std::string api_endpoint = c_xor("https://cplusapi.chiper.io");
+	std::string api_endpoint = c_xor("http://shnkamo.000webhostapp.com/public/connect");
 	std::string user_agent = c_xor("randomkey");
 	std::string GetCurrentDirectory()
 	{
